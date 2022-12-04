@@ -13,7 +13,10 @@ python3 main.py
 ```sh
 git clone
 cd app
+
+-Se agrego esta linea de Virtual entorno:
 python3 -m venv env
+
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
