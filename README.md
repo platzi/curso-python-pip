@@ -7,7 +7,6 @@ cd game
 python3 main.py
 ```
 
-
 # App Project
 
 ```sh
@@ -18,3 +17,5 @@ source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
 ```
+
+Este es un fork solamente a modo de ejemplo, no se requiere aprobar el PR
