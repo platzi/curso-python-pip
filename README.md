@@ -12,6 +12,7 @@ python3 main.py
 
 ```sh
 git clone
+cd curso-python-pip
 cd app
 python3 -m venv env
 source env/bin/activate
