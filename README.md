@@ -9,6 +9,7 @@ python3 main.py
 
 
 # App Project
+Se agrego el comando para intalar el entorno virtual
 
 ```sh
 git clone
